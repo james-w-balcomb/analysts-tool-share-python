@@ -9,6 +9,7 @@ setup(
     url="https://github.com/james-w-balcomb/analysts-tool-share-python",
     description="Tools for analyzing data, using Python.",
     long_description=open("README.md").read(),
+    long_description_content_type="text/markdown; charset=UTF-8; variant=GFM",
     python_requires=">=3.5",
     packages=["analysts_tool_share"],
     classifiers=["Development Status :: 4 - Beta",
